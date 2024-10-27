@@ -55,7 +55,7 @@ int main()
    // cout<<fact(6);
    // counting(10);
    //cout<< pow(5);
-  cout<<fibo(7);
+  cout<<fibo(8);
  // cout<<sum(4);
     
 
